@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Dance My Generation",
+  "base_artist": "ゴールデンボンバー",
+  "createdAt": "2025-12-10T07:03:57.876740Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dance My Generation",
+      "artist": "Golden Bomber",
+      "has_synced": true,
+      "path": "select/01_Dance_My_Generation_Golden_Bomber.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dance My Generation",
+      "artist": "Golden Bomber (ールデンボンバー)",
+      "has_synced": true,
+      "path": "select/02_Dance_My_Generation_Golden_Bomber_(ールデンボンバー).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dance My Generation",
+      "artist": "ゴールデンボンバー",
+      "has_synced": false,
+      "path": "select/pl_01_Dance_My_Generation_ゴールデンボンバー.txt"
+    }
+  ]
+}
